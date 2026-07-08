@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Margot Teunisse</title>
   <subtitle></subtitle>
-  <updated>2026-07-02T22:21:33+02:00</updated>
+  <updated>2026-07-08T10:58:07+02:00</updated>
   <author>
     <name>Margot Teunisse</name>
     <uri>/</uri>
@@ -17,6 +17,68 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>A Console App for Language Learning with Domain-Driven and Test-Driven Design</title>
+    <link href="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/" rel="alternate" type="text/html" title="A Console App for Language Learning with Domain-Driven and Test-Driven Design" />
+    <published>2026-07-08T10:38:00+02:00</published>
+  
+    <updated>2026-07-08T10:38:00+02:00</updated>
+  
+    <id>/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/</id>
+    <content type="text/html" src="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/" />
+    <author>
+      <name>Margot Teunisse</name>
+    </author>
+
+  
+    
+    <category term="langlearner-app" />
+    
+    <category term="java" />
+    
+    <category term="domain-driven-design" />
+    
+    <category term="test-driven-design" />
+    
+    <category term="uml-diagrams" />
+    
+  
+
+  <summary>This is the first part in a series where I build a language learning app using Java and Spring Boot. Please see this post for an overview of the project.  In this first part of my LangLearner project, I will work out the design of my application. As already mentioned in the overview, I will be using test-driven design for this. In addition, I will use UML diagrams, specifically class and sequen...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Building a Language Learning App with Java and Spring Boot</title>
+    <link href="/posts/building-a-language-learning-application-with-java-and-spring-boot/" rel="alternate" type="text/html" title="Building a Language Learning App with Java and Spring Boot" />
+    <published>2026-07-08T00:00:00+02:00</published>
+  
+    <updated>2026-07-08T00:00:00+02:00</updated>
+  
+    <id>/posts/building-a-language-learning-application-with-java-and-spring-boot/</id>
+    <content type="text/html" src="/posts/building-a-language-learning-application-with-java-and-spring-boot/" />
+    <author>
+      <name>Margot Teunisse</name>
+    </author>
+
+  
+    
+    <category term="langlearner-app" />
+    
+    <category term="java" />
+    
+    <category term="spring-core" />
+    
+    <category term="spring-boot" />
+    
+  
+
+  <summary>When I was just starting to learn Python, I got the idea to use it to build a language learning application. The idea was simple: pick a word from a vocabulary list, ask the user to provide the translated word, and have the program check if the user is correct. To test the application, I used a short list of Finnish words, as I had had an interest in learning the language.  As it turns out, I w...</summary>
+
+  </entry>
 
 </feed>
 
