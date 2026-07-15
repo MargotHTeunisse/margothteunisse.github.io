@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Margot Teunisse</title>
   <subtitle></subtitle>
-  <updated>2026-07-08T10:58:07+02:00</updated>
+  <updated>2026-07-15T11:27:17+02:00</updated>
   <author>
     <name>Margot Teunisse</name>
     <uri>/</uri>
@@ -20,11 +20,41 @@
 
   
   <entry>
+    <title>Converting my Language Learning App to Spring Boot</title>
+    <link href="/posts/converting-my-langlearner-app-to-spring-boot/" rel="alternate" type="text/html" title="Converting my Language Learning App to Spring Boot" />
+    <published>2026-07-15T11:07:00+02:00</published>
+  
+    <updated>2026-07-15T11:07:00+02:00</updated>
+  
+    <id>/posts/converting-my-langlearner-app-to-spring-boot/</id>
+    <content type="text/html" src="/posts/converting-my-langlearner-app-to-spring-boot/" />
+    <author>
+      <name>Margot Teunisse</name>
+    </author>
+
+  
+    
+    <category term="langlearner-app" />
+    
+    <category term="spring-core" />
+    
+    <category term="spring-boot" />
+    
+    <category term="java" />
+    
+  
+
+  <summary>This is the second part in a series where I build a language learning app using Java and Spring Boot. Please see this post for an overview of the project.  In the previous part of my LangLearner project, I constructed a console application in Java using domain-driven and test-driven design. In this part, I want to take some time to delve into the Spring framework and Spring Boot, and how it can...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>A Console App for Language Learning with Domain-Driven and Test-Driven Design</title>
     <link href="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/" rel="alternate" type="text/html" title="A Console App for Language Learning with Domain-Driven and Test-Driven Design" />
     <published>2026-07-08T10:38:00+02:00</published>
   
-    <updated>2026-07-08T10:38:00+02:00</updated>
+    <updated>2026-07-08T10:37:00+02:00</updated>
   
     <id>/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/</id>
     <content type="text/html" src="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/" />
@@ -54,9 +84,9 @@
   <entry>
     <title>Building a Language Learning App with Java and Spring Boot</title>
     <link href="/posts/building-a-language-learning-application-with-java-and-spring-boot/" rel="alternate" type="text/html" title="Building a Language Learning App with Java and Spring Boot" />
-    <published>2026-07-08T00:00:00+02:00</published>
+    <published>2026-07-08T10:37:00+02:00</published>
   
-    <updated>2026-07-08T00:00:00+02:00</updated>
+    <updated>2026-07-15T11:07:00+02:00</updated>
   
     <id>/posts/building-a-language-learning-application-with-java-and-spring-boot/</id>
     <content type="text/html" src="/posts/building-a-language-learning-application-with-java-and-spring-boot/" />

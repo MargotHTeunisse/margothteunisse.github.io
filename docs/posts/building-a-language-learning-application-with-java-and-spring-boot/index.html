@@ -38,13 +38,13 @@
 <meta property="og:url" content="/posts/building-a-language-learning-application-with-java-and-spring-boot/" />
 <meta property="og:site_name" content="Margot Teunisse" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2026-07-08T00:00:00+02:00" />
-<meta property="article:modified_time" content="2026-07-08T00:00:00+02:00" />
+<meta property="article:published_time" content="2026-07-08T10:37:00+02:00" />
+<meta property="article:modified_time" content="2026-07-15T11:07:00+02:00" />
 <meta property="og:image" content="/butterfly_transparent.png" /><meta name="twitter:card" content="summary_large_image" />
       <meta property="twitter:image" content="/butterfly_transparent.png" />
 <meta name="twitter:title" content="Building a Language Learning App with Java and Spring Boot" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-07-08T00:00:00+02:00","datePublished":"2026-07-08T00:00:00+02:00","description":"When I was just starting to learn Python, I got the idea to use it to build a language learning application. The idea was simple: pick a word from a vocabulary list, ask the user to provide the translated word, and have the program check if the user is correct. To test the application, I used a short list of Finnish words, as I had had an interest in learning the language.","headline":"Building a Language Learning App with Java and Spring Boot","mainEntityOfPage":{"@type":"WebPage","@id":"/posts/building-a-language-learning-application-with-java-and-spring-boot/"},"url":"/posts/building-a-language-learning-application-with-java-and-spring-boot/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-07-15T11:07:00+02:00","datePublished":"2026-07-08T10:37:00+02:00","description":"When I was just starting to learn Python, I got the idea to use it to build a language learning application. The idea was simple: pick a word from a vocabulary list, ask the user to provide the translated word, and have the program check if the user is correct. To test the application, I used a short list of Finnish words, as I had had an interest in learning the language.","headline":"Building a Language Learning App with Java and Spring Boot","mainEntityOfPage":{"@type":"WebPage","@id":"/posts/building-a-language-learning-application-with-java-and-spring-boot/"},"url":"/posts/building-a-language-learning-application-with-java-and-spring-boot/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -501,6 +501,17 @@
 
       
     
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
 
     
   
@@ -553,7 +564,7 @@
 
 <time
   
-  data-ts="1783461600"
+  data-ts="1783499820"
   data-df="ll"
   
     data-bs-toggle="tooltip" data-bs-placement="bottom"
@@ -565,6 +576,29 @@
       </span>
 
       <!-- lastmod date -->
+      
+        <span>
+          Updated
+          <!--
+  Date format snippet
+  See: ${JS_ROOT}/modules/components/locale-datetime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1784106420"
+  data-df="ll"
+  
+    data-bs-toggle="tooltip" data-bs-placement="bottom"
+  
+>
+  Jul 15, 2026
+</time>
+
+        </span>
       
 
       
@@ -608,7 +642,7 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="550 words"
+  title="570 words"
 >
   <em>3 min</em> read</span>
 
@@ -647,6 +681,13 @@
 <p>As it turns out, I would extensively use this program in my language learning journey. What I liked about it was that I could use my personal vocabulary list, and I didn’t need to put in any extra effort. Whenever I updated my vocabulary list with a new word, I could immediately use that. I also experimented with other features. The most important of these was a save function, as my vocabulary grew from a couple hundred to a couple thousand.</p>
 
 <p>In the years since, I’ve been continuing to learn Finnish, yet my LangLearner application has grown somewhat neglected. That’s where this project comes in.</p>
+
+<h2 id="overview"><span class="me-2">Overview</span><a href="#overview" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+
+<ol>
+  <li><a href="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/">A Console App for Language Learning with Domain-Driven and Test-Driven Design</a></li>
+  <li><a href="/posts/converting-my-langlearner-app-to-spring-boot/">Converting my Language Learning App to Spring Boot</a></li>
+</ol>
 
 <h2 id="goals"><span class="me-2">Goals</span><a href="#goals" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 <p>My goal for this project is  to rebuild my LangLearner application from scratch, while sticking true to the spirit of the original program. While I originally used Python, for this new version I’ve chosen to use Java. It’s a language that I’ve been wanting to use more, and I think it is more natively suited for building applications than Python.</p>
@@ -793,14 +834,21 @@
         
         
         <li class="text-truncate lh-lg">
-          <a href="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/">A Console App for Language Learning with Domain-Driven and Test-Driven Design</a>
+          <a href="/posts/building-a-language-learning-application-with-java-and-spring-boot/">Building a Language Learning App with Java and Spring Boot</a>
         </li>
       
         
         
         
         <li class="text-truncate lh-lg">
-          <a href="/posts/building-a-language-learning-application-with-java-and-spring-boot/">Building a Language Learning App with Java and Spring Boot</a>
+          <a href="/posts/converting-my-langlearner-app-to-spring-boot/">Converting my Language Learning App to Spring Boot</a>
+        </li>
+      
+        
+        
+        
+        <li class="text-truncate lh-lg">
+          <a href="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/">A Console App for Language Learning with Domain-Driven and Test-Driven Design</a>
         </li>
       
     </ul>
@@ -894,6 +942,18 @@
 
   
 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
 
 
 
@@ -907,6 +967,34 @@
   <aside id="related-posts" aria-labelledby="related-label">
     <h3 class="mb-4" id="related-label">Further Reading</h3>
     <nav class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 mb-4">
+      
+        <article class="col">
+          <a href="/posts/converting-my-langlearner-app-to-spring-boot/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/modules/components/locale-datetime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1784106420"
+  data-df="ll"
+  
+>
+  Jul 15, 2026
+</time>
+
+              <h4 class="pt-0 my-2">Converting my Language Learning App to Spring Boot</h4>
+              <div class="text-muted">
+                <p>This is the second part in a series where I build a language learning app using Java and Spring Boot. Please see this post for an overview of the project.  In the previous part of my LangLearner pr...</p>
+              </div>
+            </div>
+          </a>
+        </article>
       
         <article class="col">
           <a href="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/" class="post-preview card h-100">
