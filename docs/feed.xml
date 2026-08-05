@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Margot Teunisse</title>
   <subtitle></subtitle>
-  <updated>2026-07-15T11:27:17+02:00</updated>
+  <updated>2026-08-05T17:28:30+02:00</updated>
   <author>
     <name>Margot Teunisse</name>
     <uri>/</uri>
@@ -20,11 +20,41 @@
 
   
   <entry>
+    <title>Building a web API for LangLearner with Spring MVC and Spring Boot</title>
+    <link href="/posts/building-a-web-api-for-langlearner-with-spring-boot-and-javascript/" rel="alternate" type="text/html" title="Building a web API for LangLearner with Spring MVC and Spring Boot" />
+    <published>2026-08-05T17:04:00+02:00</published>
+  
+    <updated>2026-08-05T17:04:00+02:00</updated>
+  
+    <id>/posts/building-a-web-api-for-langlearner-with-spring-boot-and-javascript/</id>
+    <content type="text/html" src="/posts/building-a-web-api-for-langlearner-with-spring-boot-and-javascript/" />
+    <author>
+      <name>Margot Teunisse</name>
+    </author>
+
+  
+    
+    <category term="langlearner-app" />
+    
+    <category term="spring-mvc" />
+    
+    <category term="spring-boot" />
+    
+    <category term="web-api" />
+    
+  
+
+  <summary>Previously, I’ve used the Spring framework with Spring Boot to run a console application. This console application used inversion of control and dependency injection from Spring Core, but was otherwise comparable to my version without Spring. For this next part, I make more extensive use of Spring Boot and Spring MVC in order to construct HTTP endpoints. The end result for this part is a web AP...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Converting my Language Learning App to Spring Boot</title>
     <link href="/posts/converting-my-langlearner-app-to-spring-boot/" rel="alternate" type="text/html" title="Converting my Language Learning App to Spring Boot" />
     <published>2026-07-15T11:07:00+02:00</published>
   
-    <updated>2026-07-15T11:07:00+02:00</updated>
+    <updated>2026-07-02T15:51:17+02:00</updated>
   
     <id>/posts/converting-my-langlearner-app-to-spring-boot/</id>
     <content type="text/html" src="/posts/converting-my-langlearner-app-to-spring-boot/" />
@@ -86,7 +116,7 @@
     <link href="/posts/building-a-language-learning-application-with-java-and-spring-boot/" rel="alternate" type="text/html" title="Building a Language Learning App with Java and Spring Boot" />
     <published>2026-07-08T10:37:00+02:00</published>
   
-    <updated>2026-07-15T11:07:00+02:00</updated>
+    <updated>2026-07-02T15:51:17+02:00</updated>
   
     <id>/posts/building-a-language-learning-application-with-java-and-spring-boot/</id>
     <content type="text/html" src="/posts/building-a-language-learning-application-with-java-and-spring-boot/" />
