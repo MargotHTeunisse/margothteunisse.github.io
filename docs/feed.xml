@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>/</id>
+  <id>http://localhost:4000/</id>
   <title>Margot Teunisse</title>
   <subtitle></subtitle>
-  <updated>2026-08-05T17:28:30+02:00</updated>
+  <updated>2026-08-06T13:03:27+02:00</updated>
   <author>
     <name>Margot Teunisse</name>
-    <uri>/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 Margot Teunisse </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Building a web API for LangLearner with Spring MVC and Spring Boot</title>
-    <link href="/posts/building-a-web-api-for-langlearner-with-spring-boot-and-javascript/" rel="alternate" type="text/html" title="Building a web API for LangLearner with Spring MVC and Spring Boot" />
+    <link href="http://localhost:4000/posts/building-a-web-api-for-langlearner-with-spring-boot-and-javascript/" rel="alternate" type="text/html" title="Building a web API for LangLearner with Spring MVC and Spring Boot" />
     <published>2026-08-05T17:04:00+02:00</published>
   
-    <updated>2026-08-05T17:04:00+02:00</updated>
+    <updated>2026-08-06T13:02:04+02:00</updated>
   
-    <id>/posts/building-a-web-api-for-langlearner-with-spring-boot-and-javascript/</id>
-    <content type="text/html" src="/posts/building-a-web-api-for-langlearner-with-spring-boot-and-javascript/" />
+    <id>http://localhost:4000/posts/building-a-web-api-for-langlearner-with-spring-boot-and-javascript/</id>
+    <content type="text/html" src="http://localhost:4000/posts/building-a-web-api-for-langlearner-with-spring-boot-and-javascript/" />
     <author>
       <name>Margot Teunisse</name>
     </author>
@@ -44,20 +44,20 @@
     
   
 
-  <summary>Previously, I’ve used the Spring framework with Spring Boot to run a console application. This console application used inversion of control and dependency injection from Spring Core, but was otherwise comparable to my version without Spring. For this next part, I make more extensive use of Spring Boot and Spring MVC in order to construct HTTP endpoints. The end result for this part is a web AP...</summary>
+  <summary>This is the third part in a series where I build a language learning app using Java and Spring Boot. Please see this post for an overview of the project.  Previously, I’ve used the Spring framework with Spring Boot to run a console application. This console application used inversion of control and dependency injection from Spring Core, but was otherwise comparable to my version without Spring....</summary>
 
   </entry>
 
   
   <entry>
     <title>Converting my Language Learning App to Spring Boot</title>
-    <link href="/posts/converting-my-langlearner-app-to-spring-boot/" rel="alternate" type="text/html" title="Converting my Language Learning App to Spring Boot" />
+    <link href="http://localhost:4000/posts/converting-my-langlearner-app-to-spring-boot/" rel="alternate" type="text/html" title="Converting my Language Learning App to Spring Boot" />
     <published>2026-07-15T11:07:00+02:00</published>
   
     <updated>2026-07-02T15:51:17+02:00</updated>
   
-    <id>/posts/converting-my-langlearner-app-to-spring-boot/</id>
-    <content type="text/html" src="/posts/converting-my-langlearner-app-to-spring-boot/" />
+    <id>http://localhost:4000/posts/converting-my-langlearner-app-to-spring-boot/</id>
+    <content type="text/html" src="http://localhost:4000/posts/converting-my-langlearner-app-to-spring-boot/" />
     <author>
       <name>Margot Teunisse</name>
     </author>
@@ -81,13 +81,13 @@
   
   <entry>
     <title>A Console App for Language Learning with Domain-Driven and Test-Driven Design</title>
-    <link href="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/" rel="alternate" type="text/html" title="A Console App for Language Learning with Domain-Driven and Test-Driven Design" />
+    <link href="http://localhost:4000/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/" rel="alternate" type="text/html" title="A Console App for Language Learning with Domain-Driven and Test-Driven Design" />
     <published>2026-07-08T10:38:00+02:00</published>
   
     <updated>2026-07-08T10:37:00+02:00</updated>
   
-    <id>/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/</id>
-    <content type="text/html" src="/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/" />
+    <id>http://localhost:4000/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/</id>
+    <content type="text/html" src="http://localhost:4000/posts/a-console-app-for-language-learning-with-domain-driven-and-test-driven-design/" />
     <author>
       <name>Margot Teunisse</name>
     </author>
@@ -113,13 +113,13 @@
   
   <entry>
     <title>Building a Language Learning App with Java and Spring Boot</title>
-    <link href="/posts/building-a-language-learning-application-with-java-and-spring-boot/" rel="alternate" type="text/html" title="Building a Language Learning App with Java and Spring Boot" />
+    <link href="http://localhost:4000/posts/building-a-language-learning-application-with-java-and-spring-boot/" rel="alternate" type="text/html" title="Building a Language Learning App with Java and Spring Boot" />
     <published>2026-07-08T10:37:00+02:00</published>
   
     <updated>2026-07-02T15:51:17+02:00</updated>
   
-    <id>/posts/building-a-language-learning-application-with-java-and-spring-boot/</id>
-    <content type="text/html" src="/posts/building-a-language-learning-application-with-java-and-spring-boot/" />
+    <id>http://localhost:4000/posts/building-a-language-learning-application-with-java-and-spring-boot/</id>
+    <content type="text/html" src="http://localhost:4000/posts/building-a-language-learning-application-with-java-and-spring-boot/" />
     <author>
       <name>Margot Teunisse</name>
     </author>
